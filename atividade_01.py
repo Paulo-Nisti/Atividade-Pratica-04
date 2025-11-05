@@ -13,6 +13,8 @@
 # Após cada erro, o programa deve informar o usuário sobre o erro e solicitar nova entrada.
 # Quando uma operação é concluída com sucesso, exiba o resultado e encerre o programa.
 
+
+
 # Inicia um loop infinito que só será interrompido por um 'break'
 while True:
     try:
